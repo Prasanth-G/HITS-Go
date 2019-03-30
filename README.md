@@ -8,3 +8,6 @@ Implementation of Hyperlink Induced Topic Search Algorithm (popularly known as H
 - Use `AskQuery.go` with the following flags to query
   - `-q` - query
   - e.g : `AskQuery.exe -q=QUERY_STRING`
+
+Reference :
+[Kleinberg, Jon M. "Authoritative sources in a hyperlinked environment." Journal of the ACM (JACM) 46.5 (1999): 604-632.](https://www.cs.odu.edu/~jbollen/IR04/readings/kleinberg1998.pdf)
